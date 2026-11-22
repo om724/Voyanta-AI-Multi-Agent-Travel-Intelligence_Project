@@ -11,4 +11,3 @@
      pip install -r requirements.txt
 
 
-postgresql://travelbobby:V2w8YxWgK9FdQ4qlRceZBHeXAB2OxuQ6@dpg-dc1en1rl550s73e9tqbg-a.oregon-postgres.render.com/agentmemory_xs19
